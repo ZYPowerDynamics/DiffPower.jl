@@ -23,6 +23,20 @@ Please refer to the latest paper that is present in the 2026 EI2 conference for 
 
 [2026 EI2 conference paper](DiffPower.jl_2026EI2.pdf)
 
+## Illustrations from the conference paper
+
+The figures below illustrate the conference-paper version; the current implementation has since evolved.
+
+![IEEE 300-bus network topology from the conference paper](assets/readme/conference-ieee300-topology.png)
+
+*IEEE 300-bus network topology and device distribution (Fig. 2 in the conference paper).*
+
+<p align="center">
+  <img src="assets/readme/conference-active-power-response.png" alt="Reference active-power disturbance and measured response from the conference paper" width="650">
+</p>
+
+*Reference active-power disturbance and measured response of device 61 (Fig. 7 in the conference paper).*
+
 ## Current code and tested case
 
 This repository contains the DiffPower Julia module for electromagnetic transient (EMT) simulation using averaged inverter models. The tested case is a single inverter connected to an infinite bus, with simulation results consistent with MATLAB/Simulink using the same averaged model. Voltage-command delay is modeled explicitly using delay differential equations (DDEs). We plan to register DiffPower as a Julia package in the near future.
