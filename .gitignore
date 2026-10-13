@@ -9,6 +9,9 @@
 *.log
 examples/*_results/
 
+# Paper distributed as a GitHub Release attachment
+/DiffPower.jl_2026EI2.pdf
+
 # Editor and OS files
 .vscode/
 .idea/

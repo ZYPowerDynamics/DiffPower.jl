@@ -21,7 +21,9 @@ optimization, and dynamic simulation.
 
 Please refer to the latest paper that is present in the 2026 EI2 conference for detailed introductions.
 
-[2026 EI2 conference paper](DiffPower.jl_2026EI2.pdf)
+[2026 EI2 conference paper (PDF)](https://github.com/ZYPowerDynamics/DiffPower.jl/releases/download/paper-2026-ei2/DiffPower.jl_2026EI2.pdf)
+
+The paper is hosted as a GitHub Release attachment and is not included in the source checkout.
 
 ## Illustrations from the conference paper
 
