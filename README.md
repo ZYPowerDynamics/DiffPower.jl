@@ -16,3 +16,5 @@ the package’s capabilities in large-scale differentiable model
 construction, equilibrium diagnostics, sparse Jacobian evaluation,
 eigenvalue-based stability assessment, sensitivity-guided parameter
 optimization, and dynamic simulation.
+
+Please refer to the latest paper that is present in the 2026 EI2 conference for detailed introductions.
